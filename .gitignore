@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Criacionais/Abstract-Factory/SimpleFactory/.vs/SimpleFactory
+/Criacionais/Abstract-Factory/SimpleFactory/obj
